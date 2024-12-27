@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Jose Ledesma!
 
-<!--
-**joseledes/joseledes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about logistics and exploring the exciting world of data analysis.  
+🎓 Currently studying Data Science and Artificial Intelligence at ISTEA.  
+📊 Skilled in Tableau, Power BI, SQL, Python, and Excel.
 
-Here are some ideas to get you started:
+## 🌟 My Projects
+- [Fraud Prevention](https://github.com/JoseLedesma/fraud-prevention): Using data analysis to detect fraudulent transactions.
+- [Hotel cancellation](https://github.com/joseledes/Hotel-reservation-cancellation-project/): Analysis project to identify cancellation patterns and improve booking strategies.
+- [DB Digi-Market](https://github.com/joseledes/DB-Digi_Market/): Database project for optimizing product management and strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with me
+- [Linkedin](https://www.linkedin.com/in/joseluisledesma/)
+- Email: ledesma.jose1@gmail.com
