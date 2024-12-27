@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jose Ledesma!
 
--🚀 Experienced in logistics and passionate about the world of data.
--🎓 Currently studying Data Science and Artificial Intelligence at ISTEA.  
--📊 Skilled in Tableau, Power BI, SQL, Python, and Excel.
+🚀 Experienced in logistics and passionate about the world of data.  
+🎓 Currently studying Data Science and Artificial Intelligence at ISTEA.  
+📊 Skilled in Tableau, Power BI, SQL, Python, and Excel.
 
 ## 🌟 My Projects
 - [Fraud Prevention](https://github.com/JoseLedesma/fraud-prevention): Using data analysis to detect fraudulent transactions.
