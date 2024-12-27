@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose Ledesma!
 
-🚀 Passionate about logistics and exploring the exciting world of data analysis.  
+🚀 Experienced in logistics and passionate about the world of data.
 🎓 Currently studying Data Science and Artificial Intelligence at ISTEA.  
 📊 Skilled in Tableau, Power BI, SQL, Python, and Excel.
 
